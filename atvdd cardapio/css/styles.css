@@ -1,0 +1,21 @@
+ul,li{
+    list-style-type: none;
+}
+.clickable{
+    cursor:pointer;
+}
+
+.deleteButton{
+    color:white;
+    font-weight: bold;
+    background-color: brown;
+    margin-right: 10px;
+    border-radius: 50%;
+}
+#inputzin{
+border-radius: 5px;
+border-width: 3px;
+width: 120px;
+height: 20px;
+background-color: violet;
+}
